@@ -1,0 +1,18 @@
+﻿  main.cpp
+d:\_mycode\svm\svm\main.cpp(8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\_mycode\svm\svm\main.cpp(57): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\_mycode\svm\svm\main.cpp(66): warning C4244: “参数”: 从“const float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\_mycode\svm\svm\main.cpp(121): warning C4244: “参数”: 从“const float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  SVM.vcxproj -> D:\_MyCode\SVM\x64\Debug\SVM.exe
